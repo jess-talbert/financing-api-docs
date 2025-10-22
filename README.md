@@ -18,6 +18,7 @@ This repository contains comprehensive API integration requirements and document
 ## Files Included
 
 - `Financing API Requirements.md` - Complete multi-provider API documentation
+- `FinTech-Marketplace-Customer-Flow.md` - Customer flow diagram and frontend integration reference
 
 ## Financing Providers Covered
 
@@ -30,11 +31,27 @@ This repository contains comprehensive API integration requirements and document
 
 ## Usage
 
+### API Implementation
 Open `Financing API Requirements.md` for complete documentation including:
 - API endpoints and authentication methods
 - Implementation requirements and checklists
 - Data models and business workflows
 - Testing guidelines and reference information
+
+### Customer Flow & Frontend Integration
+Open `FinTech-Marketplace-Customer-Flow.md` for:
+- Live Figma board access with real-time updates
+- Complete customer journey visualization
+- Frontend integration points and touchpoints
+- JobNimbus platform integration context
+- Development and testing workflow guidance
+
+### Development Workflow
+1. **Review Customer Flow:** Study the Figma board to understand user journey
+2. **Map Integration Points:** Identify where each API fits in the customer flow  
+3. **Implement APIs:** Use the technical documentation for implementation details
+4. **Build Frontend:** Create UI components matching the customer flow design
+5. **Test End-to-End:** Validate complete journey from design to implementation
 
 ## Contributing
 
