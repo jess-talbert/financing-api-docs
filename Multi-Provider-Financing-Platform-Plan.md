@@ -838,9 +838,9 @@ function EstimateView() {
 ### Documentation
 
 - [Partner Qualification Checklist](./partner-qualification-checklist.md) ✅ CREATED
-- [Technical Integration RFI](./technical-integration-rfi.md) - *To be created*
-- [Technical Evaluation Scorecard](./technical-evaluation-scorecard.md) - *To be created*
-- [Partner Integration Guide](./partner-integration-guide.md) - *To be created*
+- [Technical Integration RFI](./technical-integration-rfi.md) ✅ CREATED
+- [Technical Evaluation Scorecard](./technical-evaluation-scorecard.md) ✅ CREATED
+- [Partner Integration Guide](./partner-integration-guide.md) ✅ CREATED
 
 ### API Documentation (Existing Providers)
 
